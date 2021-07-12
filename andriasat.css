@@ -1,0 +1,49 @@
+.about {
+	width: 120px;
+	height: 120px;
+	border-radius: 120px ;
+	box-shadow : 10px 10px 20px  rgba(0,0,0,0.8) , -10px -10px 20px  rgba(255,255,255,0.1)  ;
+}
+
+.nom {
+	font-family: "Cooper Black";
+	color: white;
+}
+
+.annee {
+	font-family: "Bauhaus 93";
+	color: white;
+}
+
+.ville {
+	font-family: "Magneto";
+	color: white;
+}
+
+body {
+	background-color: #091921;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	background-position: 100%, 0%;
+}
+
+h1, p {
+	font-family: "Lucida Calligraphy";
+	color: white;
+}
+
+li{
+	font-family: "Arial black";
+	color: white;
+}
+
+
+form{
+	background-image: url(fond.jpg);
+	box-shadow : 10px 10px 20px  rgba(0,0,0,0.8) , -10px -10px 20px  rgba(255,255,255,0.1)  ;
+}
+
+.anjara {
+	font-color: white;
+}
